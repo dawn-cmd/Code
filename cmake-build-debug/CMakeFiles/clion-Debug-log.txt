@@ -1,0 +1,323 @@
+"D:\Software\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Software/CLion 2022.2.4/bin/ninja/win/ninja.exe" -G Ninja -S "D:\OneDrive - UW-Madison\Code" -B "D:\OneDrive - UW-Madison\Code\cmake-build-debug"
+CMake Error: Could not open file for write in copy operation D:/OneDrive - UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake.tmp
+CMake Error: : System Error: Invalid argument
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineSystem.cmake:192 (configure_file):
+  configure_file Problem configuring file
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:321 (file):
+  file problem creating directory: D:/OneDrive -
+  UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:6 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:59 (__determine_compiler_id_test)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:321 (file):
+  file problem creating directory: D:/OneDrive -
+  UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:6 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:59 (__determine_compiler_id_test)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:321 (file):
+  file problem creating directory: D:/OneDrive -
+  UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:6 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:59 (__determine_compiler_id_test)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:321 (file):
+  file problem creating directory: D:/OneDrive -
+  UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:6 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:59 (__determine_compiler_id_test)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:321 (file):
+  file problem creating directory: D:/OneDrive -
+  UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:6 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:59 (__determine_compiler_id_test)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:321 (file):
+  file problem creating directory: D:/OneDrive -
+  UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:6 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:59 (__determine_compiler_id_test)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:321 (file):
+  file problem creating directory: D:/OneDrive -
+  UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:6 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:59 (__determine_compiler_id_test)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:321 (file):
+  file problem creating directory: D:/OneDrive -
+  UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:6 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:59 (__determine_compiler_id_test)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:321 (file):
+  file problem creating directory: D:/OneDrive -
+  UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:6 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:59 (__determine_compiler_id_test)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:321 (file):
+  file problem creating directory: D:/OneDrive -
+  UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:6 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:59 (__determine_compiler_id_test)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:321 (file):
+  file problem creating directory: D:/OneDrive -
+  UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:6 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:59 (__determine_compiler_id_test)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:321 (file):
+  file problem creating directory: D:/OneDrive -
+  UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:6 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:59 (__determine_compiler_id_test)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+-- The C compiler identification is unknown
+CMake Error: Could not open file for write in copy operation D:/OneDrive - UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake.tmp
+CMake Error: : System Error: Invalid argument
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCCompiler.cmake:226 (configure_file):
+  configure_file Problem configuring file
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+CMake Error: Could not find cmake module file: D:/OneDrive - UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:321 (file):
+  file problem creating directory: D:/OneDrive -
+  UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:6 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:59 (__determine_compiler_id_test)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCXXCompiler.cmake:120 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:321 (file):
+  file problem creating directory: D:/OneDrive -
+  UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:6 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:59 (__determine_compiler_id_test)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCXXCompiler.cmake:120 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:321 (file):
+  file problem creating directory: D:/OneDrive -
+  UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:6 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:59 (__determine_compiler_id_test)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCXXCompiler.cmake:120 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:321 (file):
+  file problem creating directory: D:/OneDrive -
+  UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:6 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:59 (__determine_compiler_id_test)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCXXCompiler.cmake:120 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:321 (file):
+  file problem creating directory: D:/OneDrive -
+  UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:6 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:59 (__determine_compiler_id_test)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCXXCompiler.cmake:120 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:321 (file):
+  file problem creating directory: D:/OneDrive -
+  UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:6 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:59 (__determine_compiler_id_test)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCXXCompiler.cmake:120 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:321 (file):
+  file problem creating directory: D:/OneDrive -
+  UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:6 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:59 (__determine_compiler_id_test)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCXXCompiler.cmake:120 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:321 (file):
+  file problem creating directory: D:/OneDrive -
+  UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:6 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:59 (__determine_compiler_id_test)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCXXCompiler.cmake:120 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:321 (file):
+  file problem creating directory: D:/OneDrive -
+  UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:6 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:59 (__determine_compiler_id_test)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCXXCompiler.cmake:120 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:321 (file):
+  file problem creating directory: D:/OneDrive -
+  UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:6 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:59 (__determine_compiler_id_test)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCXXCompiler.cmake:120 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:321 (file):
+  file problem creating directory: D:/OneDrive -
+  UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:6 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:59 (__determine_compiler_id_test)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCXXCompiler.cmake:120 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:321 (file):
+  file problem creating directory: D:/OneDrive -
+  UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:6 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake:59 (__determine_compiler_id_test)
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCXXCompiler.cmake:120 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+-- The CXX compiler identification is unknown
+CMake Error: Could not open file for write in copy operation D:/OneDrive - UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CMakeCXXCompiler.cmake.tmp
+CMake Error: : System Error: Invalid argument
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCXXCompiler.cmake:226 (configure_file):
+  configure_file Problem configuring file
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+CMake Error: Could not find cmake module file: D:/OneDrive - UW-Madison/Code/cmake-build-debug/CMakeFiles/3.24.2/CMakeCXXCompiler.cmake
+-- Detecting C compiler ABI info
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile):
+  Unknown extension ".c" for file
+
+    D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeCCompilerABI.c
+
+  try_compile() works only for enabled languages.  Currently these are:
+
+    C CXX
+
+  See project() command to enable other languages.
+Call Stack (most recent call first):
+  D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)
+  CMakeLists.txt:2 (project)
+
+
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: C:/msys64/mingw64/bin/cc.exe
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeTestCCompiler.cmake:56 (try_compile):
+  Unknown extension ".c" for file
+
+    D:/OneDrive - UW-Madison/Code/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
+
+  try_compile() works only for enabled languages.  Currently these are:
+
+    C CXX
+
+  See project() command to enable other languages.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Check for working C compiler: C:/msys64/mingw64/bin/cc.exe - broken
+CMake Error at D:/Software/CLion 2022.2.4/bin/cmake/win/share/cmake-3.24/Modules/CMakeTestCCompiler.cmake:69 (message):
+  The C compiler
+
+    "C:/msys64/mingw64/bin/cc.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "D:/OneDrive - UW-Madison/Code/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "D:/OneDrive - UW-Madison/Code/cmake-build-debug/CMakeFiles/CMakeError.log".
