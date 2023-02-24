@@ -9,8 +9,6 @@ private:
         Node *left, *right, *parent;
     };
     Node *root;
-    //zag() computes and returns the parent node of the current node, cur
-    //It performs a Zig-Zag rotation
     Node *leftRotate(Node *cur) {
         //Store cur's right's left node in tmp
         Node *tmp = cur->right->left;
@@ -41,7 +39,6 @@ private:
         //Return the new parent node
         return cur->parent;
     }
-    // Function for zig operation in Red-Black Tree
     Node *rightRotate(Node *cur) {
         // Store the subsidiary node before changing its pointer
         Node *tmp = cur->left->right;
@@ -125,6 +122,17 @@ private:
 public:
     RBTree() {
         root = nullptr;
+    }
+    vector<string> search(int val) {
+        Node *cur = root;
+        while (cur != nullptr) {
+            if (cur->val == val) {
+                return move(cur->data);
+            }
+            cur = cur->val < val ? cur->left : cur->right;
+        }
+        vector<string> tmp;
+        return move(tmp);
     }
     void insert(int val, const string &data) {
         if (root == nullptr) {
