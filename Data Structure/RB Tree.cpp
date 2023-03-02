@@ -119,6 +119,10 @@ private:
             cur->right->is_red = 1;
         }
     }
+    void removeBalance(Node *cur) {
+        Node *bro = cur == cur->parent->left ? cur->parent->right : cur->parent->left;
+        
+    }
 public:
     RBTree() {
         root = nullptr;
@@ -162,6 +166,34 @@ public:
         cur->data.emplace_back(data);
         cur->is_red = 1;
         cur->parent = pre;
+    }
+    void remove(int val) {
+        Node *cur = root;
+        while (cur != nullptr) {
+            if (cur->val == val) {
+                break;
+            }
+            cur = cur->val < val ? cur->left : cur->right;
+        }
+        if (cur == nullptr) {
+            return;
+        }
+        if (cur == root && cur->left == nullptr && cur->right == nullptr) {
+            root = nullptr;
+            return;
+        }
+        if (cur->left != nullptr && cur->right != nullptr) {
+            Node *suc = cur->right;
+            while (suc->left != nullptr) {
+                suc = suc->left;
+            }
+            swap(suc->data, cur->data);
+            swap(suc->val, cur->val);
+            cur = suc;
+        }
+        if (cur->left == nullptr && cur->right == nullptr) {
+            
+        }
     }
 };
 int main() {
