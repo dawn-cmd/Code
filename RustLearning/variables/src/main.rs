@@ -1,6 +1,5 @@
 fn main() {
-    let x = 5;
-    println!("The value of X is {}", x);
-    let x = x + 1;
-    println!("The value of X is {}", x);
+    let tup = (500, 6.4, 1);
+    let (x, y, z) = tup;
+    println!("Y is {}", y);
 }
