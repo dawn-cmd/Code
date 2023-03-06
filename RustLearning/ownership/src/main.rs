@@ -1,5 +1,8 @@
 fn main() {
-    let mut s = String::from("hello");
-    s.push_str(", world!");
-    println!("{}", s);
+    let mut s1 = String::from("hello");
+    test(&mut s1);
+    println!("{s1}");
+}
+fn test(s: &mut String) {
+    s.push_str(", world");
 }
