@@ -32,5 +32,8 @@ impl Solution {
     }
 }
 fn main() {
-    println!("{:?}", Solution::find_longest_subarray(vec![String::from("A")]));
+    println!(
+        "{:?}",
+        Solution::find_longest_subarray(vec![String::from("A")])
+    );
 }
