@@ -21,5 +21,8 @@ impl Solution {
     }
 }
 fn main() {
-    println!("Hello, world!");
+    println!(
+        "{}",
+        Solution::min_number_of_hours(5, 3, vec![1, 4, 3, 2], vec![2, 6, 3, 1]),
+    );
 }
